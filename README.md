@@ -1,6 +1,6 @@
 # DataProcessing
 
-The files were ran to collect the data for the SMD_2Target experiment. 
+This folder contains the code to process the data for the SMD_2Target experiment. 
 
 Step 1: Data for each subject is collected and processed into a seperate file.
 
